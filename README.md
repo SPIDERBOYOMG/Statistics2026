@@ -8,7 +8,6 @@ Statistics midterm team project (Joint Distributions).
 - `excel/` — data example workbook
 - `source/` — simulation code and the 60 data pairs
 - `presentation/` — slides
-- `docs/` — project task and question cards
 
 ## Data
 The data in E2 are simulated (`source/sim.py`, numpy seed 2026).
